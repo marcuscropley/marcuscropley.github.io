@@ -6,7 +6,7 @@
 ## Project 1
 ### Summary:
 ### References:
-### Project Link: [Project 1](https://www.youtube.com/watch?v=D9CLhQdLp8w)
+### Project Link: [About](https://marcuscropley.github.io/about)
 
 ## Project 2
 ### Summary:
