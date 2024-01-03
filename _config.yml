@@ -1,26 +1,5 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
-# Setup
-title:            Marcus Cropley
-tagline:          'Portfolio'
-description:      'This website will showcase my projects'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+@@ -2,4 +2,4 @@ title: Marcus Cropley
+logo: /headshot.jpg
+description: text below image
+show_downloads: false
+theme: jekyll-theme-hyde
