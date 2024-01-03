@@ -1,5 +1,4 @@
 title: Welcome!
-description: A Portfolio Website by Marcus Cropley
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
