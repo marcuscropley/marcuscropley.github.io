@@ -1,6 +1,6 @@
 title: Welcome!
 description: A Portfolio Website by Marcus Cropley
 header_pages:
-  - about.md
+  about.md
 show_downloads: false
 theme: jekyll-theme-slate
