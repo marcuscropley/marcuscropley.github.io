@@ -1,3 +1,4 @@
-title: Portfolio
-description: by Marcus Cropley
+title: Minimal theme
+logo: /assets/headshot.jpg
+description: Minimal is a theme for GitHub Pages.
 theme: jekyll-theme-minimal
