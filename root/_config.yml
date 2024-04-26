@@ -27,7 +27,7 @@ twitter_username: marcus
 github_username:  marcus
 
 # Build settings
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
