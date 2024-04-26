@@ -21,14 +21,13 @@
 title: My Portfollio
 email: marcuscropley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  this is my description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "marcuscropley.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marcus
 github_username:  marcus
 
 # Build settings
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
