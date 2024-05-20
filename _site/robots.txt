@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://marcuscropley.github.io/sitemap.xml
