@@ -2,7 +2,6 @@
   "basics": {
     "name": "Marcus Cropley",
     "label": "Engineering Technician",
-    "image": "",
     "email": "marcuscropley@gmail.com",
     "phone": "(504) 460-0748",
     "url": "https://marcuscropley.com/",
@@ -27,35 +26,35 @@
       "name": "Terracon Consultants",
       "position": "Engineering Technician",
       "url": "https://www.terracon.com/",
-      "startDate": "08-01-2023",
+      "startDate": "08/2023",
       "endDate": "Present",
       "summary": "Engineering Technician",
       "highlights": ["Conduct comprehensive field investigations, including soil and materials testing, to assess project feasibility and compliance with regulatory requirements", "Collaborate closely with engineers and project managers to analyze data, prepare technical reports, and provide valuable insights for decision-making"]
     }
   ],
-  "volunteer": [
+  "Community Involvement": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Lapin's Workshop",
+      "location": "New Orleans, Louisiana",
+      "position": "Co-Founder",
+      "url": "https://www.instagram.com/lapinsworkshop/",
+      "startDate": "05/2023",
+      "endDate": "Present",
+      "summary": "Community Workshop",
+      "highlights": ["Sustainable Construction Instructor", "Founding Member"]
     }
   ],
   "education": [
     {
       "institution": "Colorado State University",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "location": "Fort Collins, Colorado",
+      "url": "https://www.colostate.edu/",
+      "area": "Economics",
+      "studyType": "B.A.",
+      "startDate": "08/2018",
+      "endDate": "05/2022",
+      "summary": "Minors:"
+      "courses": ["Statistics, Global Environmental Sustainability"]
     }
   ],
   "awards": [
