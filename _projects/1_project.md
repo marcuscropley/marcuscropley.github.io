@@ -1,18 +1,14 @@
 ---
 layout: page
-title: My First Data Project
-description: with background image
+title: Solar Project
+description: A data project showcasing my skills in SQL, R, and Tableau
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: Personal
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This is a personal project I started on my free time to demonstrate my technical abilities. In this project, I source a large public dataset from Kaggle, utilize MySQL to prepare the data, R Studio to conduct statistical analysis, and Tableau to visualize my results.
 
     ---
     layout: page
