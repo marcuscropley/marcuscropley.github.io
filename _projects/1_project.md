@@ -2,9 +2,9 @@
 layout: page
 title: Solar Project
 description: A data project showcasing my skills in SQL, R, and Tableau
-img: assets/img/panels-electricity-order-sunlight.webp
+img: /assets/img/solar1.jpg
 importance: 1
-category: Personal
+category: work
 related_publications: false
 ---
 
