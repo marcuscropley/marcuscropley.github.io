@@ -4,7 +4,7 @@ title: Solar Project
 description: A data project showcasing my skills in SQL, R, and Tableau
 img: /assets/img/solar1.jpg
 importance: 1
-category: work
+category: fun
 related_publications: false
 ---
 
