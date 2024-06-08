@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Welcome!
 
 profile:
   align: right
@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Marcus Cropley, and this is my porftollio website. This is a test link to reddit [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Marcus, and this is my porftollio website. The purpose of this site is to document, share, and showcase both my personal and professional interests. I've included this about page to briefly introduce myself and talk about what you can find here. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My life can be characterized between spending hours of my day either behind a computer screen researching or outside enjoying the sun. So, I thought, how can I blend my dichotomous lifestyle into one? It turns out I can use the power data to describe and tell stories about the natural environment. I find the intersection of technology and the environment to be fascinating. You will find projects that I have made on my free time that synthesize these two realms and hopefully bring to light interesting results. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I will also use this platform to talk about my studio, Lapin's Workshop. I co-founded this community space...
