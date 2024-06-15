@@ -15,7 +15,7 @@ This is a personal project I started on my free time to demonstrate my technical
     
 ## The Data	
 
-I sourced my data from Kaggle, and used the Solar Power Generation Data set. 
+I sourced my data from Kaggle, and used the [Solar Power Generation Data] (https://www.kaggle.com/datasets/anikannal/solar-power-generation-data?select=Plant_1_Weather_Sensor_Data.csv) set. 
 
 
 <div class="row">
