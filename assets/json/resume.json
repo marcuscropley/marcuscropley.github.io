@@ -47,7 +47,6 @@
   ],
   "education": [
     {
-<<<<<<< HEAD
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
@@ -57,17 +56,6 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
-=======
-      "institution": "Colorado State University",
-      "location": "Fort Collins, Colorado",
-      "url": "https://www.colostate.edu/",
-      "area": "Economics",
-      "studyType": "B.A.",
-      "startDate": "08/2018",
-      "endDate": "05/2022",
-      "summary": "Minors:"
-      "courses": ["Statistics, Global Environmental Sustainability"]
->>>>>>> parent of 1d481a8 (Update resume.json)
     }
   ],
   "awards": [
