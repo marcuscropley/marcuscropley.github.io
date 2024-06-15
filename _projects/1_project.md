@@ -2,7 +2,7 @@
 layout: page
 title: Solar Project
 description: A data project showcasing my skills in SQL, R, and Tableau
-cv_pdf: Resume_Marcus_Cropley.pdf
+pdf: Resume_Marcus_Cropley.pdf
 img: /assets/img/solar1.jpg
 importance: 1
 category: fun
