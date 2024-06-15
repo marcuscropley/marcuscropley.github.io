@@ -9,6 +9,8 @@ category: fun
 related_publications: false
 ---
 
+## About	
+
 This is a personal project I started on my free time to demonstrate my technical abilities. In this project, I source a large public dataset from Kaggle, utilize MySQL to prepare the data, R Studio to conduct statistical analysis, and Tableau to visualize my results.
 
     ---
@@ -17,6 +19,11 @@ This is a personal project I started on my free time to demonstrate my technical
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+    
+## The Data</h2>	
+
+I sourced my data from Kaggle, and used the Solar Power Generation Data set. 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
