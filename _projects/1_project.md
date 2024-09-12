@@ -2,20 +2,21 @@
 layout: page
 title: Solar Project
 description: A data project showcasing my skills in SQL, R, and Tableau
+project_pdf: Resume_Marcus_Cropley.pdf
 img: /assets/img/solar1.jpg
 importance: 1
 category: fun
 related_publications: false
 ---
 
-This is a personal project I started on my free time to demonstrate my technical abilities. In this project, I source a large public dataset from Kaggle, utilize MySQL to prepare the data, R Studio to conduct statistical analysis, and Tableau to visualize my results.
+## About	
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This is a personal project I started on my free time to demonstrate my technical abilities. In this project, I source a large public dataset from Kaggle, utilize MySQL to prepare the data, R Studio to conduct statistical analysis, and Tableau to visualize my results.
+    
+## The Data	
+
+I sourced my data from Kaggle, and used the [Solar Power Generation Data](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data?select=Plant_1_Weather_Sensor_Data.csv) set. 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,6 +32,12 @@ This is a personal project I started on my free time to demonstrate my technical
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
+## Clean Up and Exploratory Analysis
+
+I used excel and sql to clean and streamline the data
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
