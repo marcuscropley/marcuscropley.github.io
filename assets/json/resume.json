@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Marcus Cropley",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "marcuscropley@gmail.com",
+    "phone": "(504) 460-0748",
+    "url": "https://marcuscropley.com/",
+    "summary": "An aspiring conservationist and data analyst.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,7 +24,16 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "name": "American Conservation Experience",
+      "position": "Crew Member",
+      "url": "https://example.com",
+      "startDate": "2024-08-01",
+      "endDate": "2024-12-01",
+      "summary": "Trail Work",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "American Conservation Experience",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
       "startDate": "1933-01-01",
@@ -47,15 +56,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Colorado State Univeristy",
+      "location": "Fort Collins, Colorado",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "area": "Economics",
+      "studyType": "B.A.",
+      "startDate": "2018-08-01",
+      "endDate": "2022-05-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Statistics"]
     }
   ],
   "awards": [
