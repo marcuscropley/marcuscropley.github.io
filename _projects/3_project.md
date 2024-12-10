@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Another Work in Progress
+description: Another project that is being worked on.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://marcuscropley.com/
 importance: 3
 category: fun
 ---
